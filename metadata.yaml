@@ -1,4 +1,8 @@
 _repo: The-Third-Circle_48620
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48620-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Norris, Frank
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/103
     wikipedia: http://en.wikipedia.org/wiki/Frank_Norris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48620#The-Third-Circle
 gutenberg_issued: '2015-03-31'
 gutenberg_type: Text
 identifiers:
